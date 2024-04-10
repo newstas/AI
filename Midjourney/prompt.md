@@ -137,3 +137,5 @@
 
 
 [Топ 44 самых популярных стилей Midjourney](https://telegra.ph/Top-44-samyh-populyarnyh-stilej-Midjourney-04-10)
+
+[habr тег Midjourneyъ(https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmidjourney%5D)
