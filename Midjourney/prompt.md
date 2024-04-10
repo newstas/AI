@@ -110,3 +110,6 @@
 > *(повторная генерация изображения)*
 > 
 > **Порядок изображений:**
+> 
+
+[Топ 44 самых популярных стилей Midjourney](https://telegra.ph/Top-44-samyh-populyarnyh-stilej-Midjourney-04-10)
