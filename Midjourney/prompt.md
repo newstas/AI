@@ -211,4 +211,28 @@ Midjourney проанализирует содержимое и подскаже
 
 [Нейросети для генерации изображений доступные в России](https://telegra.ph/Nejroseti-dlya-generacii-izobrazhenij-dostupnye-v-Rossii-04-10)
 
+[Т—Ж Неросети](https://journal.tinkoff.ru/flows/neural/)
+
 [habr тег Midjourney](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmidjourney%5D)
+
+[Как быстро сделать рекламные баннеры при помощи Midjourney](https://texterra.ru/blog/protestirovali-neyroset-dlya-sozdaniya-bannerov.html)
+
+[Дизайнер не нужен: рисуем логотип с помощью Midjourney 5](https://texterra.ru/blog/protestirovali-kak-neyroset-risuet-logotipy.html)
+
+[Нейросеть Midjourney: полный гайд по созданию фото](https://texterra.ru/blog/kak-neyroset-delaet-foto-po-opisaniyu.html)
+
+[Как обработать фото с помощью нейро­сети Midjourney и сделать аватарку в любом стиле](https://journal.tinkoff.ru/midjourney-avatars/)
+
+[Нейросети для генерации видео: 4 бесплатных сервиса, которые можно попробовать самому](https://journal.tinkoff.ru/list/ai-video-tools/)
+
+[16 терминов, чтобы лучше разбираться в нейро­сетях](https://journal.tinkoff.ru/short/neurodictionary/)
+
+
+
+
+
+
+
+
+
+
