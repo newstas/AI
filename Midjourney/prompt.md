@@ -1,4 +1,4 @@
-# Midjourney
+# Midjourney prompt
 
 `@MJ Бот` - бот для промтов
 
