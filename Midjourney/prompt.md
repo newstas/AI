@@ -223,9 +223,35 @@ Midjourney проанализирует содержимое и подскаже
 
 [Как обработать фото с помощью нейро­сети Midjourney и сделать аватарку в любом стиле](https://journal.tinkoff.ru/midjourney-avatars/)
 
+***
+
 [Нейросети для генерации видео: 4 бесплатных сервиса, которые можно попробовать самому](https://journal.tinkoff.ru/list/ai-video-tools/)
 
 [16 терминов, чтобы лучше разбираться в нейро­сетях](https://journal.tinkoff.ru/short/neurodictionary/)
+
+[Нейросети для удаления водяных знаков](https://neuroseti.ru/neyroseti-dlya-udaleniya-vodyanyh-znakov/)
+
+[Нейросети для удаления и замены фона изображения](https://neuroseti.ru/neyroseti-dlya-udaleniya-i-zameny-fona-izobrazheniya/)
+
+[Нейросети для работы с видео](https://neuroseti.ru/category/video/)
+
+[Нейросеть Remove.bg для удаления фона на изображении](https://neuroseti.ru/kak-polzovatsya-midjourney/)
+
+[Нейросеть DALL-E 3: обновлённый ИИ в открытом доступе](https://www.fotosklad.ru/expert/articles/nejroset-dall-e-3-obnovlennyj-ii-v-otkrytom-dostupe/)
+
+[Нейросеть Dall-E 3: как пользоваться ИИ от OpenAI для генерации картинок](https://journal.tinkoff.ru/dalle-3/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
