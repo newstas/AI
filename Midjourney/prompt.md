@@ -209,4 +209,6 @@ Midjourney проанализирует содержимое и подскаже
 
 [Топ 44 самых популярных стилей Midjourney](https://telegra.ph/Top-44-samyh-populyarnyh-stilej-Midjourney-04-10)
 
+[Нейросети для генерации изображений доступные в России](https://telegra.ph/Nejroseti-dlya-generacii-izobrazhenij-dostupnye-v-Rossii-04-10)
+
 [habr тег Midjourney](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bmidjourney%5D)
