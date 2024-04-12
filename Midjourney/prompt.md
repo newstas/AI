@@ -204,8 +204,14 @@ Midjourney проанализирует содержимое и подскаже
 
 
 
+[Midjourney галерея](https://www.midjourney.com/showcase)
+
+[Midjourney Documentation](https://docs.midjourney.com/)
 
 
+[Как использовать Midjourney: подробный гайд, лайфхаки, промты](https://habr.com/ru/companies/rshb/articles/743298/)
+
+[Полное руководство по написанию идеальных промтов для Midjourney для новичков](https://vc.ru/midjourney/879302-polnoe-rukovodstvo-po-napisaniyu-idealnyh-promtov-dlya-midjourney-dlya-novichkov) 
 
 [Топ 44 самых популярных стилей Midjourney](https://telegra.ph/Top-44-samyh-populyarnyh-stilej-Midjourney-04-10)
 
@@ -246,6 +252,8 @@ Midjourney проанализирует содержимое и подскаже
 [Пять лайфхаков для telegra.ph](https://telegra.ph/Pyat-lajfhakov-dlya-telegraph-04-10)
 
 [Как пользоваться Midjourney: команды, настройки и примеры](https://telegra.ph/Kak-polzovatsya-Midjourney-komandy-nastrojki-i-primery-04-10)
+
+[Нейросети для обработки фото](https://telegra.ph/Nejroseti-dlya-obrabotki-foto-04-10]
 
 
 
