@@ -241,6 +241,16 @@ Midjourney проанализирует содержимое и подскаже
 
 [Нейросеть Dall-E 3: как пользоваться ИИ от OpenAI для генерации картинок](https://journal.tinkoff.ru/dalle-3/)
 
+## Статьи телеграф
+
+[Пять лайфхаков для telegra.ph](https://telegra.ph/Pyat-lajfhakov-dlya-telegraph-04-10)
+
+[Как пользоваться Midjourney: команды, настройки и примеры](https://telegra.ph/Kak-polzovatsya-Midjourney-komandy-nastrojki-i-primery-04-10)
+
+
+
+
+
 
 
 
