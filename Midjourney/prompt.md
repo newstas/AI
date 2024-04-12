@@ -208,6 +208,7 @@ Midjourney проанализирует содержимое и подскаже
 
 [Midjourney Documentation](https://docs.midjourney.com/)
 
+[OpenAI](https://openai.com/)
 
 [Как использовать Midjourney: подробный гайд, лайфхаки, промты](https://habr.com/ru/companies/rshb/articles/743298/)
 
