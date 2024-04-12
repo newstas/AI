@@ -174,6 +174,8 @@
 
 ### Режим High / Low Variation Mode
 
+#### High Variation Mode Vary (Strong)
+
 `Vary (Strong)` `High Variation Mode`
 
 Измените установленный **по умолчанию режим High Variation Mode** на **Low Variation Mode**. Режим `High Varation` 
