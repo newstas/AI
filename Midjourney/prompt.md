@@ -172,9 +172,9 @@
 
 
 
-### Режим High / Low Variation Mode
+### Vary (Strong/Subtle); Режим High / Low Variation Mode
 
-#### High Variation Mode Vary (Strong)
+#### Vary (Strong); High Variation Mode
 
 `Vary (Strong)` `High Variation Mode`
 
@@ -185,8 +185,11 @@
 
 Variation — Вариация | Vary — Отличаться | Strong — Сильный
 
+#### Vary (Subtle); Low Variation Mode
 
-`Vary (Subtle)` `Low Variation Mode`
+`Vary (Subtle)`
+
+`Low Variation Mode`
 
 *Если вам нравится изображение, но необходимо исправить некоторые незначительные ошибки, увеличьте масштаб 
 изображения и выберите `Vary (Subtle)` для внесения небольших изменений в оригинал* 
